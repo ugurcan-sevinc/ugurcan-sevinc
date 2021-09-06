@@ -1,7 +1,7 @@
 ![star-wars-hello-there](https://user-images.githubusercontent.com/69902076/132235990-690aeb94-75ed-4f0e-9987-735eb5025b35.gif)
 
 ### I’m currently working on 3 projects:
-   • A launcher for android (Android native(Java), Kotlin later)<br/>
+   • A launcher for android (Android native (Currently Java but learning kotlin)<br/>
    • A bank application for android and ios (Flutter)<br/>
    • A discord bot (I can't share it right now because code includes the token)<br/>
    • Github page <br/>
