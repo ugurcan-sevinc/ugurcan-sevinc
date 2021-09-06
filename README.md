@@ -1,4 +1,4 @@
-<img src="https://tenor.com/6uZZ.gif" width="300" height="300" />
+![star-wars-hello-there](https://user-images.githubusercontent.com/69902076/132235990-690aeb94-75ed-4f0e-9987-735eb5025b35.gif)
 
 ### I’m currently working on 3 projects:
    • A launcher for android (Android native(Java), Kotlin later)<br/>
