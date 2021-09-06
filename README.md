@@ -4,7 +4,6 @@
    • A launcher for android (Android native (Currently Java but learning kotlin)<br/>
    • A bank application for android and ios (Flutter)<br/>
    • A discord bot (I can't share it right now because code includes the token)<br/>
-    and this Github page <br/>
 ### I’m currently learning
    • <a href="https://flutter.dev/">Flutter</a><br/>
    • <a href="https://developer.android.com/studio">Native Android</a>(Java & Kotlin)<br/>
