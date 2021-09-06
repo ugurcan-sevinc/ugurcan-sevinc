@@ -3,7 +3,8 @@
 ### I’m currently working on 3 projects:
    • A launcher for android (Android native(Java), Kotlin later)<br/>
    • A bank application for android and ios (Flutter)<br/>
-   • A discord bot. (I can't share it right now because code includes the token)<br/>
+   • A discord bot (I can't share it right now because code includes the token)<br/>
+   • Github page <br/>
 ### I’m currently learning
    • <a href="https://flutter.dev/">Flutter</a><br/>
    • <a href="https://developer.android.com/studio">Native Android</a>(Java & Kotlin)<br/>
