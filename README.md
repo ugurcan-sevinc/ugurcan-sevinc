@@ -5,20 +5,20 @@
 </p>
 
 🔭 **I’m currently working on**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• A launcher for android (Android native - Java)<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• A bank application for android and ios (Flutter)<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• A discord bot (Python)<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► A launcher for android (Android native - Java)<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► A bank application for android and ios (Flutter)<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► A discord bot (Python)<br/>
 
 🌱 **I’m currently learning**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <a href="https://flutter.dev/">Flutter</a><br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <a href="https://developer.android.com/studio">Native Android</a> (Java & Kotlin)<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://flutter.dev/">Flutter</a><br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com/studio">Native Android</a> (Java & Kotlin)<br/>
 
 📫 **How to reach me**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• +90 545 302 59 62 (Whatsapp or Telegram)<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• ugrcaan.business@gmail.com
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► +90 545 302 59 62 (Whatsapp or Telegram)<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► ugrcaan.business@gmail.com
 
 📄 **Know about my experiences**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• I'll add my cv here
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► I'll add my cv here
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
