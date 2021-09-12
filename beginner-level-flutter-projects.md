@@ -1,4 +1,4 @@
-## Beginner Level Projects
+## Beginner Level Flutter Projects
 
 <a href="https://github.com/ugurcan-sevinc/i-am-rich-app"><h3>I'm Rich App </h3></a>
 It is an application where there is a diamond in the middle of the screen. This diamond can be enlarged and reduced and can be moved from one place to another on the screen.
