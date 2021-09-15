@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Uğurcan Sevinç </br> A Flutter Developer </h2>
+<h2 align="center">Hi 👋, I'm Uğurcan Sevinç </br> A Mobile Application Developer </h2>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69902076/132235990-690aeb94-75ed-4f0e-9987-735eb5025b35.gif" alt="realnovu" height="400" width="1000"/>
