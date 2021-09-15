@@ -16,5 +16,11 @@ Learn more about layout widgets: https://flutter.dev/docs/development/ui/widgets
 
 <img src="https://user-images.githubusercontent.com/69902076/132989663-87d6f846-34e7-4518-bd98-89b42ee3f528.png" alt="I am poor app" width=216 height=432>
 
+<a href="https://github.com/ugurcan-sevinc/mi_card"><h3>MiCard Project</h3></a>
+
+A project made to get learn the material design and flutter widgets. </br>
+
+<img src="https://user-images.githubusercontent.com/69902076/133498898-7b528db4-8d99-4c3b-aad8-00f75dd0e0e4.png" alt="Micard" width="208" height="416">
+
 I'll update this everytime I add new projects.
 
