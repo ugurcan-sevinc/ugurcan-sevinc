@@ -21,7 +21,7 @@ A project made to get learn the material design and flutter widgets. </br>
 
 <img src="https://user-images.githubusercontent.com/69902076/133498898-7b528db4-8d99-4c3b-aad8-00f75dd0e0e4.png" alt="Micard" width="208" height="416">
 
-<a href="https://github.com/ugurcan-sevinc/i-am-rich-app"><h3>Dicee App </h3></a>
+<a href="https://github.com/ugurcan-sevinc/dicee_app"><h3>Dicee App </h3></a>
 It is an application where there are dices in the middle of the screen. When pressed dices change randomly.
 
 <img src="https://user-images.githubusercontent.com/69902076/133680065-f5d42196-60db-4eab-b2f0-7d6411820ea7.gif" alt="Dicee App" width="208" height="416">
