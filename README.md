@@ -5,9 +5,7 @@
 </p>
 
 🔭 **I’m currently working on**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► A launcher for android (Android native - Java)<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► A bank application for android and ios (Flutter)<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► A discord bot (Python)<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Nothing :/ <br/>
 
 🌱 **I’m currently learning**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://flutter.dev/">Flutter</a><br/>
