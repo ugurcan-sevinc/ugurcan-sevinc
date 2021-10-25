@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/69902076/138671760-cfe8dd8a-e0a5-4c84-a5e3-73bd8f4401e7.png" alt="realnovu" height="300" width="300"/>
-</p>
 <h2 align="center">Hi 👋, I'm Uğurcan Sevinç </br> A Mobile Application Developer </h2>
 
 🔭 **I’m currently working on**<br/>
