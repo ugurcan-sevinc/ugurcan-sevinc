@@ -1,8 +1,7 @@
-<h2 align="center">Hi 👋, I'm Uğurcan Sevinç </br> A Mobile Application Developer </h2>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69902076/132235990-690aeb94-75ed-4f0e-9987-735eb5025b35.gif" alt="realnovu" height="400" width="1000"/>
+  <img src="https://user-images.githubusercontent.com/69902076/138671760-cfe8dd8a-e0a5-4c84-a5e3-73bd8f4401e7.png" alt="realnovu" height="300" width="300"/>
 </p>
+<h2 align="center">Hi 👋, I'm Uğurcan Sevinç </br> A Mobile Application Developer </h2>
 
 🔭 **I’m currently working on**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Nothing :/ <br/>
