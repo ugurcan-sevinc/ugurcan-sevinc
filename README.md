@@ -2,7 +2,7 @@
 
 💻 **I’m currently working on**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Internship and Senior Project <br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Hackerrank & Leetcode <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Hackerrank & Leetcode Algorithms <br/>
 
 📖 **Currently learning**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://reactjs.org/">React</a> <br/>
