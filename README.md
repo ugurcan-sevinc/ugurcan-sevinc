@@ -5,8 +5,8 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Hackerrank & Leetcode Algorithms <br/>
 
 📖 **Currently learning**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://reactjs.org/">React</a> <br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://www.mongodb.com/">MongoDB</a> <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://dotnet.microsoft.com/apps/aspnet">Asp.net</a> <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019">SQL Server</a> <br/>
   
 📕 **Will continue later**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com/studio">Native Android</a> (Kotlin)<br/>
