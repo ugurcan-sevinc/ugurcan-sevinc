@@ -45,7 +45,7 @@
 </ul>
 <h3> Intermediate Android Projects </h3>
 
-<h3> Beginner Flutter Projects </h3>
+<h3> Beginner Flutter Projects (suspended for a while) </h3>
 <ul>
   <li><a href="https://github.com/ugurcan-sevinc/ugurcan-sevinc/blob/main/beginner-level-flutter-projects.md"> Projects from Angela Yu's flutter course. </a> </li>
 </ul>
