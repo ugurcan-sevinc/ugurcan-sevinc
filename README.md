@@ -6,7 +6,7 @@
 
 📖 **Currently learning**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://dotnet.microsoft.com/apps/aspnet">Asp.net</a> <br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019">SQL Server</a> <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019">SQL Server</a> <br/>
   
 📕 **Will continue later**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com/studio">Native Android</a> (Kotlin)<br/>
