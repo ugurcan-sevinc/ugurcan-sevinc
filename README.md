@@ -10,7 +10,7 @@
   
 📕 **Will continue later**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com/studio">Native Android</a> (Kotlin)<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://flutter.dev/">Flutter</a><br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Image Processing with <a href="https://www.python.org/">Python</a><br/>
 
 ✉️ **How to reach me**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► +90 545 302 59 62 (Whatsapp or Telegram)<br/>
