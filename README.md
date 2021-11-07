@@ -47,8 +47,8 @@
 
 <h3> Beginner Flutter Projects </h3>
 <ul>
-   <li>I'm taking a break because I will progress through native android programming.</li>
-   <li><a href="https://github.com/ugurcan-sevinc/ugurcan-sevinc/blob/main/beginner-level-flutter-projects.md"> Projects from Angela Yu's flutter course. </a> </li>
+   <li><a href="https://github.com/ugurcan-sevinc/ugurcan-sevinc/blob/main/beginner-level-flutter-projects.md"> Projects from Angela Yu's flutter course. </a> -> I took a break because I'll continue with android programming. </li>
 </ul>
+
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurcan-sevinc&show_icons=true&locale=en&layout=compact" alt="ugurcan-sevinc" /></p> -->
