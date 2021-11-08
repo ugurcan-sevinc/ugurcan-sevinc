@@ -1,16 +1,17 @@
 <h2 align="center">Hi 👋, I'm Uğurcan Sevinç </br> A Mobile Application Developer </h2>
 
 💻 **I’m currently working on**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Internship and Senior Project <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Senior Project <br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Hackerrank & Leetcode Algorithms <br/>
 
 📖 **Currently learning**<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com/studio">Native Android</a> (Kotlin)<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://dotnet.microsoft.com/apps/aspnet">Asp.net</a> <br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019">SQL Server</a> <br/>
   
 📕 **Will continue later**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com/studio">Native Android</a> (Kotlin)<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Image Processing with <a href="https://www.python.org/">Python</a><br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Image Processing<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Ethical Hacking<br/>
 
 ✉️ **How to reach me**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► +90 545 302 59 62 (Whatsapp or Telegram)<br/>
