@@ -9,7 +9,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://dotnet.microsoft.com/apps/aspnet">Asp.net</a> <br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019">SQL Server</a> <br/>
   
-📕 **Will continue later**<br/>
+📕 **Will learn later**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Image Processing<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Ethical Hacking<br/>
 
