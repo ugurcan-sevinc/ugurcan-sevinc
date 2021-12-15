@@ -37,18 +37,5 @@
 <h3 align="left">Familiar With</h3>
 <p align="left"> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h2 align="center"> My Projects </h2>
-
-<h3> Beginner Android Projects </h3>
-<ul>
-  <li><a href="https://github.com/ugurcan-sevinc/Launcher"> Launcher for android. </a> </li>
-</ul>
-<h3> Intermediate Android Projects </h3>
-
-<h3> Beginner Flutter Projects </h3>
-<ul>
-   <li><a href="https://github.com/ugurcan-sevinc/ugurcan-sevinc/blob/main/beginner-level-flutter-projects.md"> Projects from Angela Yu's flutter course. </a> -> I took a break because I'll continue with android programming. </li>
-</ul>
-
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurcan-sevinc&show_icons=true&locale=en&layout=compact" alt="ugurcan-sevinc" /></p> -->
