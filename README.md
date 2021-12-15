@@ -2,7 +2,6 @@
 
 💻 **I’m currently working on**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Senior Project <br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Hackerrank & Leetcode Algorithms <br/>
 
 📖 **Currently learning**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com/studio">Native Android</a> (Kotlin)<br/>
