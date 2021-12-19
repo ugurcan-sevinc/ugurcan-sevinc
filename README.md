@@ -4,7 +4,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Senior Project <br/>
 
 📖 **Currently learning**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com/studio">Native Android</a> (Kotlin)<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com/studio">Native Android</a><br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://dotnet.microsoft.com/apps/aspnet">Asp.net</a> <br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019">SQL Server</a> <br/>
   
