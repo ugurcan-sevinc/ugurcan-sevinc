@@ -20,7 +20,6 @@
 
 <h3 align="left">Social Media</h3>
 <p align="left">
-<a href="https://twitter.com/realnovu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realnovu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uğurcan-sevinç-701891196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uğurcan-sevinç-701891196" height="30" width="40" /></a>
 <a href="https://medium.com/@ugrcaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ugrcaan" height="30" width="40" /></a> </p>
 
