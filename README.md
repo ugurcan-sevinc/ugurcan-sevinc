@@ -8,8 +8,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://dotnet.microsoft.com/apps/aspnet">Asp.net</a> <br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019">SQL Server</a> <br/>
   
-📕 **Will learn later**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Image Processing<br/>
+📕 **Curious About**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Ethical Hacking<br/>
 
 ✉️ **How to reach me**<br/>
