@@ -10,6 +10,8 @@
   
 📕 **Curious About**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Ethical Hacking<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► IoT <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Cloud <br/>
 
 ✉️ **How to reach me**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► +90 545 302 59 62 (Whatsapp or Telegram)<br/>
