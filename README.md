@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Uğurcan Sevinç </br> A Mobile Application Developer </h2>
 
 💻 **I’m currently working on**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Senior Project <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► --- <br/>
 
 📖 **Currently learning**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com">Native Android</a><br/>
