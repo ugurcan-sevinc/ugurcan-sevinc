@@ -14,7 +14,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Blockchain <br/>
 
 ✉️ **How to reach me**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► +90 545 302 59 62 (Whatsapp or Telegram)<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► +90 545 302 59 62 (Whatsapp or Signal)<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► ugrcaan.business@gmail.com
 
 📄 **Know about my experiences**<br/>
