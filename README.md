@@ -16,7 +16,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://linkedin.com/in/ugrcaan" target="blank"> Linkedin </a> <br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► ugrcaan.business@gmail.com
 
-📄 **Know about my experiences**<br/>
+📄 **CV**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► I'll add my cv here
 
 
