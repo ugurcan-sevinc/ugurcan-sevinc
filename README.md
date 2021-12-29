@@ -4,13 +4,13 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Senior Project <br/>
 
 📖 **Currently learning**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com/studio">Native Android</a><br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://dotnet.microsoft.com/apps/aspnet">Asp.net</a> <br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019">SQL Server</a> <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com">Native Android</a><br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://flutter.dev/">Flutter</a><br/>
+   
   
 📕 **Curious About**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► IoT <br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Cloud<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Web 3.0<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Blockchain <br/>
 
 ✉️ **How to reach me**<br/>
