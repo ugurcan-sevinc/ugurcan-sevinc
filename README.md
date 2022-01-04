@@ -9,7 +9,7 @@
    
 📕 **Curious About**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► IoT <br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Web3<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Web3 <br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Blockchain <br/>
 
 ✉️ **How to reach me**<br/>
