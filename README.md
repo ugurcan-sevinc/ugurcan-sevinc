@@ -4,7 +4,7 @@
 An engineer who wants to start his career with android programming and then wants to develop himself completely on mobile programming. Is curious about new and different technologies, can make friends easily, is compatible with teamwork, can learn quickly and is willing to work.
 
 💻 **I’m currently working on**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► --- <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Senior Project <br/>
 
 📖 **Currently learning**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com">Native Android</a><br/>
