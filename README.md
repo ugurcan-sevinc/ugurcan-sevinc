@@ -26,5 +26,7 @@ Is curious about new and different technologies, can make friends easily, is com
 <h3 align="left">Algorithm</h3>
 <a href="https://www.hackerrank.com/ugrcaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ugrcaan" height="30" width="40" /></a>
 
--->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurcan-sevinc&show_icons=true&locale=en&layout=compact" alt="ugurcan-sevinc" /></p>
+-->
+
