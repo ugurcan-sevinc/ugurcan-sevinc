@@ -9,11 +9,12 @@ Is curious about new and different technologies, can make friends easily, is com
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Early Phase of a Scooter Application (Binac) <br/>
 
 📖 **Currently learning**<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.apple.com/">Native iOS</a><br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com">Native Android</a><br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://flutter.dev/">Flutter</a><br/>
+   
 
 ✉️ **How to reach me**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://linkedin.com/in/ugrcaan" target="blank"> Linkedin </a> (If you reach here, I will response faster.) <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://linkedin.com/in/ugrcaan" target="blank"> Linkedin </a> (If you reach here, I will respond faster.) <br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► ugrcaan.business@gmail.com
 
 <h3 align="left">Algorithm</h3>
