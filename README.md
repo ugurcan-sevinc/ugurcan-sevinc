@@ -1,9 +1,10 @@
 <h2 align="center">Hi 👋, I'm Uğurcan Sevinç </br> A Future Mobile Application Developer </h2>
 
 **About Me**<br/>
-An engineer who wants to start his career with android programming and then wants to improve himself enough to bring innovations to the mobile application and mobile device industry. 
+An engineer who wants to start his career with mobile application development and then wants to improve himself enough to bring innovations to the mobile application and mobile device industry. 
 
-Is curious about new and different technologies, can make friends easily, is compatible with teamwork, can learn quickly and is willing to work.
+Is curious about new and different technologies, can make friends easily, is compatible with teamwork and can learn quickly.
+
 
 💻 **I’m currently working on**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Project-H (Home Management System) <br/>
