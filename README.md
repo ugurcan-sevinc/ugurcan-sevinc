@@ -7,7 +7,6 @@ An engineer who wants to start his career with mobile application development an
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Project-H (Home Management System) <br/>
 
 📖 **Currently learning**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.apple.com/">Native iOS</a><br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com">Native Android</a><br/>
    
 
