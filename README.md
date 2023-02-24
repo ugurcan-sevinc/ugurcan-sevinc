@@ -4,7 +4,7 @@
 An engineer who wants to start his career with mobile application development and then wants to improve himself enough to bring innovations to the mobile application and mobile device industry. 
 
 💻 **I’m currently working on**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Project-H (Home Management System) <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Project Todo <br/>
 
 📖 **Currently learning**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com">Native Android</a><br/>
