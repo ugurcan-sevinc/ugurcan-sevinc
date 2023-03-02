@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Uğurcan Sevinç </br> A Future Mobile Application Developer </h2>
+<h2 align="center">Hi 👋, I'm Uğurcan Sevinç </br> A Mobile Application Developer </h2>
 
 **About Me**<br/>
 An engineer who wants to start his career with mobile application development and then wants to improve himself enough to bring innovations to the mobile application and mobile device industry. 
