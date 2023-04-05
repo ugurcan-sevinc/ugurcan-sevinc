@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Uğurcan Sevinç </br> A Mobile Application Developer </h2>
 
 **About Me**<br/>
-An engineer who wants to start his career with mobile application development and then wants to improve himself enough to bring innovations to the mobile application and mobile device industry. 
+My current focus is on Android Application Development using Kotlin, and I'm continuously improving my skills to become a Kotlin expert. I'm particularly interested in exploring new and different technologies, and I enjoy working with others in a team-oriented environment. My long-term goal is to utilize my expertise in Kotlin to build cutting-edge solutions, including back-end development with 'Ktor', multi-platform applications using 'Kotlin Multiplatform' and Android Applications with 'Jetpack Compose'.
 
 💻 **I’m currently working on**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Learning Ktor, Building a Chat App and a Water Reminder App <br/>
