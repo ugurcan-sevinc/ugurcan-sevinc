@@ -4,7 +4,7 @@
 An engineer who wants to start his career with mobile application development and then wants to improve himself enough to bring innovations to the mobile application and mobile device industry. 
 
 💻 **I’m currently working on**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Learning Jetpack Compose & Ktor <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Learning Ktor, Building a Chat App and a Water Reminder App <br/>
 
 📖 **Currently learning**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com">Native Android</a><br/>
