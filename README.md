@@ -28,4 +28,8 @@ My current focus is on Android Application Development using Kotlin, and I'm con
 ► <a href="https://github.com/ugurcan-sevinc/Calculator" target="blank"> Calculator </a><br/>
 ► <a href="https://github.com/ugurcan-sevinc/Sentiment-Analysis" target="blank"> Sentiment-Analysis (iOS) </a> (Sentiment analysis on clothing comments)
 <br/>
-► <a href="https://github.com/ugurcan-sevinc/LearningAPI" target="blank"> Learning API </a> (App That I made to learn API Requests)
+► <a href="https://github.com/ugurcan-sevinc/LearningAPI" target="blank"> Learning API </a> (App That I made to learn API Requests)<br/>
+
+<h3 align="left">Also Currently Developing</h3>
+► A Water Reminder App
+► A Chat Application (I'll write backend service with Ktor)
