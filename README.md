@@ -23,8 +23,9 @@ My current focus is on Android Application Development using Kotlin, and I'm con
 
 <h3 align="left">My Projects</h3>
 ► <a href="https://github.com/ugurcan-sevinc/ProjectNews" target="blank"> News Application </a><br/>
-► <a href="https://github.com/ugurcan-sevinc/OneTaskMan" target="blank"> Todo Application </a>
-► <a href="https://github.com/ugurcan-sevinc/ProjectSFinal" target="blank"> Scooter Renting Application Demo</a>
-► <a href="https://github.com/ugurcan-sevinc/Calculator" target="blank"> Calculator </a>
+► <a href="https://github.com/ugurcan-sevinc/OneTaskMan" target="blank"> Todo Application </a><br/>
+► <a href="https://github.com/ugurcan-sevinc/ProjectSFinal" target="blank"> Scooter Renting Application Demo</a><br/>
+► <a href="https://github.com/ugurcan-sevinc/Calculator" target="blank"> Calculator </a><br/>
 ► <a href="https://github.com/ugurcan-sevinc/Sentiment-Analysis" target="blank"> Sentiment-Analysis (iOS) </a> (Sentiment analysis on clothing comments)
-► <a href="https://github.com/ugurcan-sevinc/LearningAPI" target="blank"> Learning API </a> (App That I made to learn API Requests)<br/>
+<br/>
+► <a href="https://github.com/ugurcan-sevinc/LearningAPI" target="blank"> Learning API </a> (App That I made to learn API Requests)
