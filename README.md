@@ -33,4 +33,4 @@ My current focus is on Android Application Development using Kotlin, and I'm con
 
 <h3 align="left">Also Currently Developing</h3>
 ► A Water Reminder App<br/>
-► Chat Application with Firebase <br/>
+► Chat Application with Ktor Backend <br/>
