@@ -25,6 +25,7 @@ My current focus is on Android Application Development using Kotlin, and I'm con
 ► <a href="https://github.com/ugurcan-sevinc/ProjectNews" target="blank"> News Application </a><br/>
 ► <a href="https://github.com/ugurcan-sevinc/OneTaskMan" target="blank"> Todo Application </a><br/>
 ► <a href="https://github.com/ugurcan-sevinc/ProjectSFinal" target="blank"> Scooter Renting Application Demo</a><br/>
+► <a href="https://github.com/ugurcan-sevinc/QReader" target="blank"> QReader </a><br/>
 ► <a href="https://github.com/ugurcan-sevinc/Calculator" target="blank"> Calculator </a><br/>
 ► <a href="https://github.com/ugurcan-sevinc/Sentiment-Analysis" target="blank"> Sentiment-Analysis (iOS) </a> (Sentiment analysis on clothing comments)
 <br/>
@@ -32,5 +33,4 @@ My current focus is on Android Application Development using Kotlin, and I'm con
 
 <h3 align="left">Also Currently Developing</h3>
 ► A Water Reminder App<br/>
-► QR Reader <br/>
 ► Chat Application with Firebase <br/>
