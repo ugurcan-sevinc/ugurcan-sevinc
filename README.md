@@ -4,7 +4,7 @@
 My current focus is on Android Application Development using Kotlin, and I'm continuously improving my skills to become a Kotlin expert. I'm particularly interested in exploring new and different technologies, and I enjoy working with others in a team-oriented environment. My long-term goal is to utilize my expertise in Kotlin to build cutting-edge solutions, including back-end development with 'Ktor', multi-platform applications using 'Kotlin Multiplatform' and Android Applications with 'Jetpack Compose'.
 
 💻 **I’m currently working on**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► ... <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Call Recorder <br/>
 
 📖 **Currently learning**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com">Native Android</a><br/>
