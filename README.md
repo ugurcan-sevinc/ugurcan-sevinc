@@ -1,10 +1,10 @@
 <h2 align="center">Hi 👋, I'm Uğurcan Sevinç </br> A Mobile Application Developer </h2>
 
 **About Me**<br/>
-My current focus is on Android Application Development using Kotlin, and I'm continuously improving my skills to become a Kotlin expert. I'm particularly interested in exploring new and different technologies, and I enjoy working with others in a team-oriented environment. My long-term goal is to utilize my expertise in Kotlin to build cutting-edge solutions, including back-end development with 'Ktor', multi-platform applications using 'Kotlin Multiplatform' and Android Applications with 'Jetpack Compose'.
+I am currently focused on Android Application Development using Kotlin and continuously improving my skills to become an expert. I have a strong interest in exploring new technologies and enjoy working collaboratively in a team environment. My long-term goal is to utilize my Android expertise to develop cutting-edge solutions that enhance user experience through useful applications.
 
 💻 **I’m currently working on**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;►  <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Revamping QReader <br/>
 
 📖 **Currently learning**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com">Native Android</a><br/>
