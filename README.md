@@ -4,7 +4,7 @@
 I am currently focused on Android Application Development using Kotlin and continuously improving my skills to become an expert. I have a strong interest in exploring new technologies and enjoy working collaboratively in a team environment. My long-term goal is to utilize my Android expertise to develop cutting-edge solutions that enhance user experience through useful applications.
 
 💻 **I’m currently working on**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Revamping QReader <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Revamping QReader as QRiosity<br/>
 
 📖 **Currently learning**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com">Native Android</a><br/>
