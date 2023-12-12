@@ -8,7 +8,7 @@ I'm a passionate mobile app developer with a focus on **Flutter** and **Dart**, 
 
 **Here's what I'm currently up to:**
 
-*  Working on a Solar Panel Project
+*  Working on a Solar Panel Project at Semafor Teknoloji
 *  Learning **Flutter** for Mobile App Development
 *  Exploring advanced features in **Java Spring** for backend solutions
 
@@ -21,11 +21,17 @@ I'm a passionate mobile app developer with a focus on **Flutter** and **Dart**, 
 **My Tech Stack:**
 
 <p align="left">
-  <a href="https://developer.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" title="Android" width="40" height="40" /></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" title="Kotlin" width="40" height="40" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" /></a>
-  <a href="https://dart.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" title="Dart" width="40" height="40" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://github.com/ugurcan-sevinc/ugurcan-sevinc/assets/69902076/3b08a1e3-ce16-4beb-b2b5-95b2b2b97798" alt="Flutter" title="Flutter" width="40" height="40" /></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://dart.dev/" target="_blank"><img src="https://github.com/ugurcan-sevinc/ugurcan-sevinc/assets/69902076/e9e4e00e-633f-4776-ab9a-d078610a0328" alt="Dart" title="Dart" width="40" height="40" /></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://spring.io/" target="_blank"><img src="https://github.com/ugurcan-sevinc/ugurcan-sevinc/assets/69902076/024ba102-c565-4d81-b42f-149718a78879" alt="Spring" title="Spring" width="40" height="40" /></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.java.com/" target="_blank"><img src="https://github.com/ugurcan-sevinc/ugurcan-sevinc/assets/69902076/69bcb80c-94a9-4004-9da7-514939d56bd9" alt="Java" title="Java" width="40" height="40" /></a>
 </p>
+
+
+
 
 **My Projects:**
 
