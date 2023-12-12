@@ -1,13 +1,13 @@
 <h2 align="center">Hi 👋, I'm Uğurcan Sevinç </br> A Mobile Application Developer </h2>
 
 **About Me**<br/>
-I am currently focused on Android Application Development using Kotlin and continuously improving my skills to become an expert. I have a strong interest in exploring new technologies and enjoy working collaboratively in a team environment. My long-term goal is to utilize my Android expertise to develop cutting-edge solutions that enhance user experience through useful applications.
+As a Software Engineer, I specialize in **Mobile App Development** using **Dart & Flutter** and **Backend solutions with Java**. With a focus on continuous improvement, I aim to transition into a DevOps role, leveraging my expertise to contribute to innovative solutions that enhance user experiences.
 
-💻 **I’m currently working on**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► Revamping QReader as QRiosity<br/>
+💻 **I’m currently working**<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► In a Solar Panel Project <br/>
 
 📖 **Currently learning**<br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com">Native Android</a><br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://developer.android.com"> Flutter </a><br/>
    
 ✉️ **How to reach me**<br/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;► <a href="https://linkedin.com/in/ugrcaan" target="blank"> Linkedin </a> (If you reach here, I will respond faster.) <br/>
