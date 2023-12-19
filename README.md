@@ -2,7 +2,7 @@
 
 **Software Engineer | Flutter Enthusiast | DevOps Aspirant**
 
-I'm a passionate software engineer with a focus on **Mobile Application Development** and **Web Development**, constantly striving to build innovative and user-friendly applications. I'm also passionate about learning and am currently expanding my skills to become a **DevOps Engineer** in the near future.
+I'm a passionate software engineer with a focus on **Mobile Application Development** and **Backend Development**, constantly striving to build innovative and user-friendly applications. I'm also passionate about learning and am currently expanding my skills to become a **DevOps Engineer** in the near future.
 
 **Here's what I'm currently up to:**
 
