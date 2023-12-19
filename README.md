@@ -1,17 +1,12 @@
 <h2 align="center"> Hey there, I'm Uğurcan Sevinç!</h2>
 
-<!--img src="https://avatars3.githubusercontent.com/u/142983855?s=400&u=524c77e219d3060f21255396242a1a97c4787050&v=4" width="200" height="200" alt="Uğurcan Sevinç profile picture" align="center" /-->
-
 **Software Engineer | Flutter Enthusiast | DevOps Aspirant**
 
-I'm a passionate mobile app developer with a focus on **Flutter** and **Dart**, constantly striving to build innovative and user-friendly applications. I'm also passionate about learning and am currently expanding my skills to include **DevOps practices**.
+I'm a passionate software engineer with a focus on **Mobile Application Development** and **Web Development**, constantly striving to build innovative and user-friendly applications. I'm also passionate about learning and am currently expanding my skills to become a **DevOps Engineer** in the near future.
 
 **Here's what I'm currently up to:**
 
-*  Working on a Solar Panel Project at Semafor Teknoloji
-*  Learning **Flutter** for Mobile App Development
-*  Exploring advanced features in **Java Spring** for backend solutions
-
+*  Working on a Solar Panel Project at Semafor Teknoloji (Using **Flutter** for Mobile Application, and using **.Net** for Backend)
 
 **Connect with me:**
 
@@ -28,11 +23,13 @@ I'm a passionate mobile app developer with a focus on **Flutter** and **Dart**, 
   <a href="https://spring.io/" target="_blank"><img src="https://github.com/ugurcan-sevinc/ugurcan-sevinc/assets/69902076/024ba102-c565-4d81-b42f-149718a78879" alt="Spring" title="Spring" width="40" height="40" /></a>
   &nbsp;&middot;&nbsp;
   <a href="https://www.java.com/" target="_blank"><img src="https://github.com/ugurcan-sevinc/ugurcan-sevinc/assets/69902076/69bcb80c-94a9-4004-9da7-514939d56bd9" alt="Java" title="Java" width="40" height="40" /></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://github.com/ugurcan-sevinc/ugurcan-sevinc/assets/69902076/4c306c7b-7d7b-44e7-a2e8-763e08fc49d0" alt="Kotlin" title="Kotlin" width="40" height="40" /></a>
+
 </p>
 
 
-
-
+<!--
 **My Projects:**
 
 *  [News Application](https://github.com/ugurcan-sevinc/ProjectNews)
@@ -42,4 +39,5 @@ I'm a passionate mobile app developer with a focus on **Flutter** and **Dart**, 
 *  [Calculator](https://github.com/ugurcan-sevinc/Calculator)
 *  [Sentiment-Analysis (iOS)](https://github.com/ugurcan-sevinc/Sentiment-Analysis)
 *  [Learning API](https://github.com/ugurcan-sevinc/LearningAPI)
+-->
 
