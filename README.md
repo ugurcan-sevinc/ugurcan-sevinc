@@ -4,7 +4,7 @@
 
 I'm a passionate software engineer with a focus on **Mobile Application Development** and **Backend Development**, constantly striving to build innovative and user-friendly applications. I'm also passionate about learning and am currently expanding my skills to become a **DevOps Engineer** in the near future.
 
-**I'm currently up to:** </br<
+**I'm currently up to:** </br>
 Working on a Solar Panel Project at Semafor Technologies
 
 <p align="left">
