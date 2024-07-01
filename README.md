@@ -1,6 +1,6 @@
 <h2 align="center"> Hey there, I'm Uğurcan Sevinç!</h2>
 
-**Software Engineer | Flutter Enthusiast | DevOps Aspirant**
+**Software Engineer | Mobile Application Developer**
 
 I'm a passionate software engineer with a focus on **Mobile Application Development** and **Backend Development**, constantly striving to build innovative and user-friendly applications. I'm also passionate about learning and am currently expanding my skills to become a **DevOps Engineer** in the near future.
 
