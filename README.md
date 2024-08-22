@@ -10,18 +10,6 @@ I'm a passionate software engineer with a focus on **Full Stack Development**, c
   Working on a video conference project that utilizes WebRTC.
 </p>
 
-<p align="start">
-  <a href="https://linkedin.com/in/ugrcaan" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:ugrcaan.business@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email">
-  </a>
-  <a href="https://instagram.com/ugrcaan" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
-  </a>
-</p>
-
 **My Tech Stack:**
 
 **Programming Languages & Frameworks:**
