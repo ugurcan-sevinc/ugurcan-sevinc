@@ -22,7 +22,7 @@ I'm a passionate software engineer with a focus on **Full Stack Development**, c
 **Development Tools:**
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,postman,git,github,bitbucket,figma,gradle"/>
+    <img src="https://skillicons.dev/icons?i=postgres,postman,git,github,bitbucket,figma"/>
   </a>
 </p>
 
