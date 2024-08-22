@@ -15,7 +15,7 @@ I'm a passionate software engineer with a focus on **Full Stack Development**, c
 **Programming Languages & Frameworks:**
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,flask,kotlin,ktor,html,css,bootstrap,js,electron"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,flask,kotlin,ktor,html,css,bootstrap,js,electron"/>
   </a>
 </p>
 
