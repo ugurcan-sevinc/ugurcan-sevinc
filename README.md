@@ -2,7 +2,7 @@
 
 **Software Engineer | Full Stack Developer**
 
-I'm a passionate software engineer with a focus on **Full Stack Development**, constantly striving to build innovative and user-friendly applications. I'm also passionate about learning and am currently expanding my skills to become a **Systems & Backend Developer** in the near future.
+I'm a software engineer specializing in **Full Stack Development**, passionate about creating innovative and user-friendly software solutions. I'm currently **expanding my expertise** into **Systems Engineering** to deepen my **understanding of server-side technologies** and further enhance my skill set.
 
 <p align="left">
   <b>I'm currently up to:</b>
@@ -10,32 +10,31 @@ I'm a passionate software engineer with a focus on **Full Stack Development**, c
   Working on a video conference project that utilizes WebRTC.
 </p>
 
-**My Tech Stack:**
-
-**Programming Languages & Frameworks:**
+**Currently utilizing:**
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,flask,kotlin,ktor,html,css,bootstrap,js,electron"/>
+    <img src="https://skillicons.dev/icons?i=go,flutter"/>
   </a>
 </p>
 
-**Development Tools:**
+
+**Used and familiar with:**
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,flask"/>
+  </a>
+</p>
+
+**Also:**
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,postman,git,github,bitbucket,figma"/>
   </a>
 </p>
 
-**IDEs & Editors:**
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,idea,pycharm"/>
-  </a>
-</p>
-
 **Operating Systems & Shells:**
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,powershell,debian,bash"/>
+    <img src="https://skillicons.dev/icons?i=windows,powershell,debian,bash,apple"/>
   </a>
 </p>
