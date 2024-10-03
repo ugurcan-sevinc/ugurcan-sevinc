@@ -13,7 +13,7 @@ I'm a software engineer specializing in **Full Stack Development**, passionate a
 **Currently utilizing:**
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,flutter"/>
+    <img src="https://skillicons.dev/icons?i=go,kotlin"/>
   </a>
 </p>
 
